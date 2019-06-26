@@ -10,7 +10,7 @@ contains a route such as:
 ```ruby
 get 'about', to: "static#about"
 ```
-
+df
 This is mapped to the `static` controller and its `about` action, which renders
 the `about.html.erb` view template.
 
